@@ -1,0 +1,38 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "110"
+decided: "1899-01-03"
+citations: ["14 App. D.C. 50"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESTY v. NEWTON"]
+source_url: "https://static.case.law/app-dc/14/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1315813
+cites_cases: ["10 App. D. C. 149", "10 App. D. C. 175", "10 App. D. C. 527", "12 App. D. C. 23", "13 App. D. C. 111", "13 App. D. C. 86", "143 U. S. 275", "155 U. S. 286", "18 Wall. 120", "4 App. D. C. 43", "6 App. D. C. 68", "7 App. D. C. 64"]
+---
+
+# Esty v. Newton
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the Court:
+First. This is an interference proceeding involving priority of invention of an improved device described in the declaration of interference as follows:
+“ 1. An automatic fire-extinguisher or sprinkler having a valve, a rest to sustain a valve-support, and a valve-support inserted between the valve and rest, and consisting of two separable members, one of the said members sustaining the valve, and the other constituting a support for the first, the said members having a fulcrum-point that is offset from the direct line of thrust, and leverage-securing arms extending outwardly from the fulcrum-point.
+“ 2. In an automatic sprinkler, a valve-supporting device consisting of a valve-supporting thrust-arm having an inclined inner end and having also a leverage-securing portion extending laterally at an angle to the said inner end, a support having a laterally-extending portion to which the said leverage-securing portion is soldered, and an adjustable screw adapted to engage the support.”
+Second. William Esty’s application was filed January 25, 1893. Robert W. Newton filed May 4, 1893. While Esty’s application was undergoing amendment from time to time it was not perceived that there was any ground of interference with Newton, and a patent was issued to the latter February 6,1894. Esty did not make the particular claims of the issue until after the grant of that patent.
+Notwithstanding the grant of the patent to his adversary, Esty was rightly declared the senior party by reason of his earlier application. The burden of proof was consequently imposed upon Newton. Porter v. Louden, 7 App. D. C. 64, 69; Wurts v. Harrington, 10 App. D. C. 149; Hunt v. McCaslin, 10 App. D. C. 527, 529.
+Third. On behalf of Esty it has been earnestly and ably argued, in connection with an exhaustive review of the authorities, that to overcome the case made by the earlier application the same weight of evidence is required as in criminal cases — the necessary fact or facts must be proved beyond a reasonable doubt. This question came before us in the case of Wurts v. Harrington, 10 App. D. C. 149, 153. After much consideration it was therein said :
+“ There is no reason why, in cases like the present, the tribunals Of the Patent Office should not be guided by the ordinary rules of the courts of law in respect to the burden of proof. Where a patent has been regularly issued and a question of anticipation or priority is raised in a suit for infringement or in proceedings ih interference, a different rule prevails. Of this character are the cases cited and relied on by the acting Commissioner. Deering v. Winona Harvester Works, 155 U. S. 286, 301; The Barbed Wire Patent, 143 U. S. 275, 285. See, also, Coffin v. Ogden, 18 Wall. 120, 124; Wells v. Reynolds, 4 App. D. C. 43, 48.”
+It was said, in a later case also, that the burden of proof is upon the junior applicant “to sustain his right by a preponderance of testimony.” Hunt v. McCaslin, 10 App. D. C. 527, 529.
+The conditions in this case make it identical with those in respect of this point, and we see no occasion to depart from the doctrine therein enounced. In most, if not all, of the cases cited by counsel it was necessary to overcome a patent that had .been regularly issued.
+Fourth. The weight of the evidence .introduced by Newton was sufficiently great to gonyince each tribunal of the Patent Office, passing upon the record in succession, that he had invented the device of the issue and reduced it to practice on May 29, 1891. And there was like unanimity of opinion that the evidence on behalf of Esty was not sufficient to sustain his claim of invention and reduction to practice prior to that date.
+This evidence has been reviewed and considered with evident care in the decisions referred to, and we see no useful purpose that would be subserved by a further analysis. It is therefore sufficient to say that we have found no such weakness in the evidence on behalf of Newton, or cogency in that on behalf of Esty, that would justify us in reversing those decisions under the rule that has been time and again acted upon- under similar conditions. Hisey v. Peters, 6 App. D. C. 68, 71; Arnold v. Tyler, 10 App. D. C. 175, 179; Doyle v. McRoberts, Id. 445, 451.
+Fifth. We do not think that the time of Newton’s delay, or the circumstances attending his failure to make an earlier application for a patent for the invention of the issue, show a concealment of the invention, or its deliberate suppression in such manner or for such purposes as to bring his case within the operation of the principle governing the case of Mason v. Hepburn, 13 App. D. C. 86: S. C., 84 O. G. 147, and Warner v. Smith, 13 Id. 111: S. C., 84 O. G. 311.
+The situation disclosed is more like that found in the case of Wurts v. Harrington, 10 App. D. C. 149, 155.
+Newton was engaged in constant efforts at improvements in fire-extinguishers. He had an application for a patent for one that was issued March 31, 1891, and experimented with another that was patented July 12, 1892. This last he then, and also when he testified, considered better and more efficient than the one in controversy, and he would probably not have applied for a patent for the latter had he not seen Esty’s device. Being advised that his last patent did not cover this one, he made his application in order to prevent the competition of Esty. This is no more than seems to have been often done by inventors under similar circumstances. By actual reduction to practice the right to the invention becomes perfect, and can only become subordinate to the claim of a subsequent bona fide inventor by some such course of conduct as that shown in Mason v. Hepburn, supra, and the cases therein cited. The importance of mere delay whilst the inventor is engaged in the prosecution of other improvements in the same art is in its weight — more or less great, according to the explanatory circumstances — in determining whether the attempted reduction to practice of the device amounted to an actual demonstration of its practical efficacy and utility or fell short thereof and rendered it nothing more than an abandoned experiment. Beals v. Finkenbiner, 12 App. D. C. 23, 31; Dickey v. Fleming, Id. 509, 515; Guilbert v. Killinger, 13 Id. 107; Warner v. Smith, 13 App. D. C. 111; Hunt v. McCaslin, 10 App. D. C. 527, 533; Braver v. Brown, ante, p. 34.
+The delay of Newton in applying for the patent, under the circumstances, was not of sufficient weight to prevent each tribunal of the Patent Office from reaching the conclusion that he had actually reduced the invention to practice at the date claimed, and the Commissioner has declared himself as “convinced beyond a reasonable doubt,”
+The decision will be affirmed, and the proceedings in this court certified to the Commissioner of Patents, as required by law. It is so ordered.
+Affirmed.
