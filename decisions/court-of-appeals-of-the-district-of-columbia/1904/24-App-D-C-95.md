@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "1297"
+decided: "1904-06-08"
+citations: ["24 App. D.C. 95"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES ex rel. TAYLOR v. TAFT, Secretary of War."]
+source_url: "https://static.case.law/app-dc/24/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341261
+cites_cases: ["177 U. S. 290"]
+---
+
+# United States ex rel. Taylor v. Taft
+
+## Majority (Mr. Chief Justice Clabaugh,)
+
+Mr. Chief Justice Clabaugh,
+of the Supreme Court of the District of Columbia (who sat with the court in the hearing of this cause in the absence of Mr. Chief Justice Alvey), delivered the opinion of the Court:
+The appellant has raised various questions, but preliminary to them all is that of the authority of the courts to review the action of the Secretary of war in removing her. That the courts have no such jurisdiction is entirely clear to us. That the right of appointment carries with it the right of removal has been determined so many times that it would be useless to cite authority in support of the proposition. This power of removal, therefore, would seem to be unrestricted, except as controlled by legislation of Congress. This the appellant contends has been done by the civil service act of January 16, 1883 (22 Stat. at L. 403, chap. 27, § 13, U. S. Comp. Stat. 1901, p. 1224), but an inspection of that act shows that the only restriction placed upon the right of removal is that “no officer or employee of the United States mentioned in this act shall discharge * * * any other officer or employee * * * for giving or withholding or neglecting to make any contribution of money or other valuable thing for any political purpose.”
+It is perfectly plain from the reading of the act that Congress never intended to limit the power of removal except for the single cause of failure to contribute money or services to a political party. The entire policy of civil service has been to restrict the power of appointment, not removal, because, once the right to appoint is restricted within certain defined classifications, the reason for political removals has ceased; and, therefore, the right of removal has remained unchanged except for the political causes assigned. Not only has the statute made this plain, but reason is with it.
+The question of fitness, capacity, attention to the duties of an officer, is necessarily to be determined by the heads of the departments ; this determination is only arrived at by the exercise of discretion and judgment, and, Will it be seriously contended that the courts can by proceedings in mandamus review this discretion and judgment ? Will it be asserted that the thousands of employees in the classified service of the government can appeal to the courts for the review of the action of their superior officer whenever he may find cause to remove one or more of them for inefficiency, whether it be in the total failure of the employee to perform his or her duties, or whether it be for acts which, in the judgment of that superior officer, are detrimental to the discipline of the service ? It seems to us the very statement of the contention is its own refutation. Any other conclusion would encourage inefficiency and incompetency in office, and' be fruitful of insubordination. We understand our conclusion of this question to have the support of the Supreme Court in the case of Keim v. United States, 177 U. S. 290, 44 L. ed. 774, 20 Sup. Ct. Rep. 574, when Mr. Justice Brewer, delivering the opinion of the court, says:
+“The appointment to an official position in the government, oven if it be simply a clerical position, is not a mere ministerial act, but one involving the exercise of judgment. The appointing power must determine the fitness of the applicant, — whether or not he is the proper one to discharge the duties of the position. Therefore, it is one of those acts over which the courts have no general supervising power. In the absence of specific provision to the contrary, the power of removal from office is incident to the power of appointment. ‘It cannot for a moment be admitted that it was the intention of the Constitution that those offices which are denominated inferior offices should be held during life.’ * * * Unless, therefore, there be some specific provision to the contrary, the action of the Secretary of the interior in removing the petitioner from office on account of inefficiency is beyond review in the courts, either by mandamus to reinstate him or by compelling payment of salary as though he had not been removed. * * *
+“Nowhere in these statutory provisions [civil service act of January 16, 1883] is there anything to indicate that the duty of passing in the first instance upon the qualifications of the applicants, or later, upon the competency or efficiency of those who have been tested in the service, was taken away from the administrative officers and transferred to the courts. Indeed, it may well be doubted whether that is a duty which is strictly judicial in its nature. * * *
+“These are matters peculiarly within the province of those who are in charge of and superintending the departments, and until Congress by some special and direct legislation makes provision to tlie contrary, we are clear that they must be settled by those administrative officers.”
+Having taken this view of the case, for the reason heretofore set out we find it unnecessary to pass upon the many other points raised, and, therefore, the action of the court below in denying the prayer of the petitioner for a writ of mandamus and the dismissal of the petition is affirmed, with costs.
+'A writ of error to the Supreme Court of the United States was prayed by the appellant, and allowed June 24, 1904.
