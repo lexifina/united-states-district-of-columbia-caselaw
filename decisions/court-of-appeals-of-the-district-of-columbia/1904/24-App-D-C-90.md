@@ -1,0 +1,25 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "1414"
+decided: "1904-06-07"
+citations: ["24 App. D.C. 90"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HUGHES v. BRENNAN CONSTRUCTION COMPANY."]
+source_url: "https://static.case.law/app-dc/24/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341294
+---
+
+# Hughes v. Brennan Construction Co.
+
+## Majority (Mr. Justice Morris)
+
+Mr. Justice Morris
+delivered the opinion of the Court:
+The theory of the appellant in the institution of this suit is that, by the failure of the appellee to award the contract to the lowest responsible bidder, which bidder he claims himself to have been in his second bid, he was remitted to his right to proceed with the work under his original contract. And his argument is that the letting of the contract to the lowest bidder was a condition precedent to the plaintiff’s relinquishment of his rights under the original contract. But it will be noted that the plaintiff is exceedingly careful in his testimony to avoid any statement to the effect that the letting was to be regarded as a condition precedent. It is very clear that the original contract between the parties was abrogated by mutual consent, and that the plaintiff, feeling secure in the superior knowledge which he supposed he had of the situation, was willing to take his chances under the new agreement. The mutual discontent of the parties with the original contract, a discontent which led to the new agreement, suffices to show, in the absence of distinct and positive proof to the contrary, that no return was contemplated by either party to the original contract.
+But in any event the appellant was not injured by the failure of the appellee to award the contract to the lowest responsible bidder. We attach no importance to the supposed variance between the terms “lowest bidder,” as used in the declaration, and “lowest responsible bidder,” as used in the testimony. So far as the testimony discloses, the appellant was neither the lowest bidder nor the lowest responsible bidder. Carson was both the one and the other; for there is nothing whatever to show that he was not entirely responsible. And his bid for $6.50 per thousand brick is as much a bid in a lump sum as was the appellant’s bid. Indeed, it is a far more intelligible and definite bid to builders than is that of a gross sum for the gross work. It was easy for the builder to ascertain the number of brick that would be required, and thereupon to base his calculations. Upon the appellant’s own contention, the appellee would have fully complied with his agreement, if he had awarded the contract to Carson. And if this is so, it is difficult to perceive how the appellant could have been injured by the failure of the appellee to award the contract to Carson.
+The position of the appellant is inconsistent. His declaration is based specifically upon the theory and the allegation that, by the failure of the appellee to solicit and receive bids, and to award the contract for the work to the lowest bidder, the appellant was remitted to his right under the original contract and entitled to continue in the performance of that contract, and therefore entitled to receive the 5 per centum on the cost of the work, which, as done by the appellee itself, was $10,935, yielding a percentage of $546.75. And yet his claim is not a claim under any original contract, but a percentage of 5 per centum upon the amount of his second bid of $15,449, Under the declaration, if his theory were correct, the compensation to which he would have been entitled would not have'been 5 per centum upon the amount of his bid or of any bid, but 5 per centum of the cost of the work; and the only showing as to the amount of that is the actual expenditure of the appellee in its performance, $10,935.
+It is very clear to us that the original contract between the parties was rescinded when they entered upon the second arrangement, and that there was then no thought on the part of either to return thereto, and that, on the contrary, the appellant felt so secure of his position that he could get the work on better terms for himself by competition in bidding for a lump sum, that he was not only willing, but desirous, to resort to such competition. The idea of returning to the original contract was evidently an afterthought. It is also very clear that he was neither the lowest bidder nor the lowest responsible bidder; and that, if the contract had been awarded to Carson, the appellant would have no just ground for complaint. His only grievance, in the last analysis, is that the contract was not awarded to Carson ; and how the failure of the appellee so to award it can constitute in law an injury to the appellant we are at a loss to understand.
+We are of opinion that the ruling of the trial court was right, and that the judgment appealed from should be affirmed, with costs. And it is so ordered. Affirmed.
