@@ -1,0 +1,29 @@
+---
+court: "District of Columbia Court of Appeals"
+docket: "88"
+decided: "1893-12-08"
+citations: ["2 App. D.C. 51"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE UPPER STEAMBOAT COMPANY v. BLAKE."]
+source_url: "https://static.case.law/app-dc/2/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2467297
+cites_cases: ["1 Mackey, 64", "11 Wall., 1", "12 Wheat., 611", "17 How., 399", "2 Gall., 398", "2 Story, 182", "2 Ware, 148", "20 How., 393", "3 N. H., 204", "30 Mich., 237", "32 Ala., 30", "43 N. Y., 52", "43 N. Y., 554", "95 U. S., 68"]
+---
+
+# Upper Steamboat Co. v. Blake
+
+## Majority (Mr. Chief Justice Alvey)
+
+Mr. Chief Justice Alvey
+delivered the opinion of the Court:
+On the statement of facts, two questions are presented:
+1. Whether the matter alleged is properly within the jurisdiction of the admiralty courts of the United States; and,
+2. Whether the Commissioners of the District of Columbia, as officers of the municipal corporation, have control and supervision of the wharves along the shore of the Potomac river, within the District of Columbia, with right to license and regulate the use thereof; or whether that right and control is vested in the chief of engineers, under Section 1797 of the Revised Statutes of the United States.
+As to the first of these questions, we are of opinion that the case is not such as to be embraced within the admiralty jurisdiction of the United States. It would certainly be extending that jurisdiction further than any case, of which we are aware,, has hitherto carried it. That wharves, piers, docks, or landing places, are essential as means of conducting maritime trade and commerce, must of course be conceded. But does it follow that all contracts relating to such wharves and docks are maritime contracts? It has been said that the admiralty jurisdiction, in cases of contract, depends primarily upon the nature of the contract, and is limited to contracts, claims and services purely maritime, and touching rights and duties appertaining to commerce and navigation. Ferry Co. v. Beers, 20 How., 393; Ex parte Easton, 95 U. S., 68, 72. It is clear, says the Supreme Court, in the case last referred to, that a contract for the use of a wharf by the master or owner of a ship or vessel is a maritime contract, and, as such, that it is cognizable in the admiralty; that such a contract, being one made exclusively for the benefit of the ship or vessel, a maritime lien in the case supposed arises in favor of the proprietor of the wharf against the vessel for payment of reasonable and customary charges in that behalf for the use of the wharf, and that the same may be enforced by a proceeding in rem against the vessel, or by suit in personam against the owner. And that a demand for wharfage is a maritime contract, and therefore cognizable and enforceable in a court of admiralty, would seem to be generally held by the courts of the country. Brookman v. Hamill, 43 N. Y., 554. Indeed, wharfage has, from a remote time, been regarded as among the usual and necessary port charges of a vessel, and hence the demand for such services may be enforced against the vessel receiving the benefit of them. But is there not an essential difference between a claim or demand for wharfage, as understood in the laws and usages of navigation, and a claim for rent as such of a wharf, under a contract that, assuming it to be valid as between the parties, creates the relation of landlord and tenant? Under such contract, the rent is payable, though a vessel should never approach the wharf, or though the wharf may be used for purposes quite foreign to the maritime trade. It could hardly be contended that a contract for building or repairing a wharf is embraced in the class of contracts denominated maritime, any more than it could (and not with as much propriety) be contended that a contract to build a ship is a maritime contract; and it has been- expressly held by the Supreme Court of the United States that a contract for building a ship is not of a maritime character, and therefore not within the admiralty jurisdiction. Ferry Co. v. Beers, 20 How., 393. And so it has been held by the same court that mortgage contracts or pledges of vessels are not within the admiralty jurisdiction, but are purely land contracts. Bogart v. Steamboat John Jay, 17 How., 399. Nor can we suppose that a contract for the sale of a wharf could be regarded as a maritime contract; and if not, why should a lease of a wharf that may be for a long term, with annual rent reserved, and, as may be, with conditions and stipulations for repairs or rebuilding the same from time to time, be regarded as a maritime contract, and as such cognizable only in a court of admiralty? We are clearly of opinion that the lease of a wharf, supposing it valid, is not a maritime contract, in any proper sense, but is a contract relating to realty, and must be performed on the land. Sheppard v. Steele, 43 N. Y., 52. The only contracts relating to wharves that are of a maritime character are those for wharfage, for wharf service rendered to vessels, and such claims are due to the lessee and not to the lessor of the wharf.
+We are of- opinion, therefore, that the learned judge below was right in dismissing the libel for want of jurisdiction.
+With respect to the second question presented, we need only say, that as we have disposed of the case upon the ground of the want of jurisdiction, it would seem to be improper for this court to express any opinion as to that question. Another jurisdiction must be invoked before that question can be authoritatively decided.
+The decree appealed from is affirmed, with costs to the appellees.
+Decree affirmed.
