@@ -1,0 +1,25 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "2779"
+decided: "1915-05-28"
+citations: ["44 App. D.C. 1"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McLEAN v. NOLAN."]
+source_url: "https://static.case.law/app-dc/44/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1783517
+cites_cases: ["12 Wall. 681"]
+---
+
+# McLean v. Nolan
+
+## Majority (Mr. Justice Van Obsdel)
+
+Mr. Justice Van Obsdel
+delivered the opinion of the Court:
+It is urged that the lease, being recorded, was constructive notice of the limitation. A lease is not required to be recorded by the registration laws of the District of Columbia. Without stopping to consider whether the recording of a lease in this District imparts constructive notice, the recording of the present lease is of little importance in view of the record before us. Tbe lease called for an expenditure of $25,000. This amount was increased by a subsequent agreement between tbe lessors and lessee to $33,000, of which change no record was made. It does not appear that tbe contractors bad notice of any limitation whatever, but they bad notice that they were doing extra work which Leetcb was approving. If plaintiffs, therefore, bad notice of tbe recorded limitation of $25,000, tbe unrecorded increase of tbe amount and tbe action of Leetch in approving and paying for work in excess of that amount waived any advantage that might have arisen from notice of tbe original limitation. Plaintiffs were assured by Leetcb that tbe contracts with Henderson would be honored and paid. Tbe court below, referring to this state of facts, said: “If, after ascertaining that Leetcb bad exhausted tbe $25,000, they ascertained be was paying for extra work and material, tbe effect of any constructive notice imposed by tbe recorded deed, as a limitation upon Leetch’s authority, would be entirely nullified.” -
+Tbe contention that plaintiffs were subcontractors is con-' clusively answered in tbe opinion of tbe trial justice, as follows: “It is contended on behalf of the- owners of tbe property that plaintiffs are subcontractors and come within tbe terms of sec. 1239 of tbe Code, and thus are limited to tbe amount to become due to tbe original contractor, — in this case $33,000. But if they were subcontractors, who was tbe original contractor? Certainly not Taylor, who bad not assumed to make tbe improvements. Not Henderson, who was merely a superintendent, with no authority to make contracts, and all of whose dealings, according to the testimony, were expressly or impliedly approved by Leetch. The evidence clearly establishes that plaintiffs were original contractors with the owners of the property, through their agent Leetch, thus bringing them within the terms of sec. 1237 of the Code [31 Stat. at L. 1384, chap. 854].”
+The attempt to invoke the rule that improvements by a lessee cannot be charged against the interest of the lessor is also without merit. Taylor did not contract to make the improvements, nor does the evidence disclose that he assumed responsibility for them. The agreement was “that the lessors shall expend, or shall cause to be expended, a sum not to exceed $25,000 on improvements and repairs,” the amount being later increased to $33,000. Henderson was placed there to supervise the work by both parties. That he was the agent of defendants is clear from the testimony. Leetch stood in the shoes of defendants, and any recognition of Henderson’s authority to superintend the work by Leetch was recognition by defendants. That plaintiffs were justified in relying upon the full authority of Henderson to make contracts for labor and materials on behalf of defendants, subject to the approval of Leetch, is well established. “Agents are special, general, or universal. Where written evidence of their appointment is not required, it may be implied from circumstances. These circumstances are the acts of the agent and their recognition or acquiescence by the principal. The same considerations fix the category of the agency and the limits of the authority conferred. Where one, without objection, suffers another to do acts which proceed upon the ground of authority from him, or by his conduct adopts and sanctions such acts after they are done, he will be bound, although no previous authority exist, in all respects as if the requisite power had been given in the most formal manner. If he has justified the belief of a third party that the person assuming to be his agent was authorized to do what was done, it is no answer for him to say that no authority had been given, or that it did not reach so far, and that the third party had acted upon a mistaken conclusion. He is estopped to take refuge in such a defense. If a loss is to be borne, the author of the error must bear it.” Bronson v. Chappell (Townsend v. Chappell) 12 Wall. 681, 20 L. ed. 436.
+In any view of this case, defendants are liable. The decree is therefore affirmed with costs. Affirmed.
