@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "1897"
+decided: "1908-10-21"
+citations: ["32 App. D.C. 12"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EASTER v. RALSTON."]
+source_url: "https://static.case.law/app-dc/32/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1357730
+cites_cases: ["1 Bland, 463", "1 Dev. & B. 408", "1 Met. 218", "126 Fed. 910", "129 U. S. 512", "129 U. S. 524", "140 U. S. 665", "20 Wall. 670", "23 N. J. Eq. 134", "27 Vt. 699", "3 Bland, 551", "3 MacArth. 42", "36 Ark. 301", "4 Fed. 862", "6 T. B. Mon. 300", "66 Pac. 532", "67 Fed. 379", "7 Pet. 625", "7 T. B. Mon. 593", "8 Utah, 369", "83 Ill. 525", "92 Wis. 242"]
+---
+
+# Easter v. Ralston
+
+## Majority (Mr. Chief Justice Shepard)
+
+Mr. Chief Justice Shepard
+delivered the opinion of the Court:
+The single question involved is whether it was competent for the court, without the consent of the parties and against the expressed wish of the petitioner, to refer the cause to the auditor before a hearing upon the pleadings and evidence and an adjudication of the matters put in issue.
+This is not the case of an ordinary proceeding against a trustee for an account of the administration of an estate, where the trust relation and duty, as well as the existence and possession of the fund, have been admitted or established, and nothing but the statement of an account is required, the items of which, when reported, may form the subject-matter of exceptions by a dissatisfied party. The relation of trustee is admitted, but it is denied that any funds came into the possession of the trustee for which it is his duty to account. Nor is the petition directed to obtaining an account of trust funds actually in possession of and administered by him. On the contrary, it seeks to hold him liable for the malversation of his cotrustee on the ground of his alleged neglect of duty Avhereby the loss of the fund was permitted-to occur. The answer, to which replication was made, puts this charge of negligence in issue, and further claims special exemption from liability for any default of the cotrustee under the terms of the order of appointment. Thus was raised a preliminary question necessary to be determined before the account can properly be taken. It is whether the petitioner is entitled to relief prayed; that is to say, whether the trustee is bound to account at all as prayed in the petition.
+The auditor is not a judicial officer to whom, without the consent of the parties at least, the determination of this question can he delegated. His function is that of a master, to whom is ordinarily assigned the duty of stating items of indebtedness and credit between parties, and ascertaining any balance that may be due. As has been said by the Supreme Court of the United States: “It is not within the general province of a master to pass upon all the issues in an equity case, nor is it competent for the court to refer the entire decision of a case to him ■without the consent of the parties. It cannot, of its own motion, or upon the request of one party, abdicate its duty to determine by its own judgment the controversy presented, and devolve that duty upon any of its officers.” Kimberly v. Arms, 129 U. S. 512, 524, 32 L. ed. 764, 768, 9 Sup. Ct. Rep. 355.
+In that case a reference had been made by consent, which presented a' different question, but the statement was made of the general rule, governing in cases where there has been no consent to the reference, that has always prevailed. The rule in all cases of reference is thus laid down in an excellent treatise on equity procedure:
+“Before a cause is referred to a master to take and state an account between the parties, the following preliminary steps should be taken, as conditions precedent to the reference, viz.: (1) The pleadings should be perfected and the cause put at issue; (2) the parties should take the' proofs upon the issues made by the pleadings, as fully as the nature of the case will allow; (3) the cause should be regularly set down for hearing; (4) the cause should be regularly heard upon the pleadings and the evidence by the court; (5) upon such hearing the court should pass upon all the issues made by the pleadings, and should enter an interlocutory decree declaring the rights of the parties, and also settling and declaring the principles upon which the account is to be talcen; (6) the decree should refer the cause to a master to take and state the account in accordance therewith and report to the court, and all other matters should be reserved until the coming in of the report; (7) the order of reference must be founded upon, and cannot be more extensive than, the pleadings and the proofs.” 2 Bates, Fed. Eq. Proc. Sec. 753. See also 3 Greenl. Ev. Sec. 332; Neale v. Hagthrop, 3 Bland, Ch. 551, 561; Phœnix Mutual L. Ins. Co. v. Grant, 3 MacArth. 42, 48; and many other authorities cited in the brief for appellant. Our attention has been called to no authority to the contrary..
+In the state of the case as presented by the record, we are .of the opinion that it was the duty of the court to determine the questions put in issue by the pleadings of the parties, upon evidence to be taken in support thereof, and to lay down the principles for the guidance of the auditor in stating whatever account might then be ordered to be taken.
+For the reasons given, the order will be reversed, with costs, and the case remanded for further proceedings not inconsistent with this opinion. Reversed.
