@@ -1,0 +1,36 @@
+---
+court: "District of Columbia Court of Appeals"
+docket: "315"
+decided: "1894-05-18"
+citations: ["3 D.C. App. 329"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HALLAM v. OPPENHEIMER."]
+source_url: "https://static.case.law/app-dc/3/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8481036
+cites_cases: ["101 U. S., 612", "107 U. S., 251"]
+---
+
+# Hallam v. Oppenheimer
+
+## Majority (Mr. Chief Justice Alvey)
+
+Mr. Chief Justice Alvey
+delivered the opinion of the Court:
+The motion to dismiss the appeal in this case must prevail. The only appellants are the trustees appointed by the decree of the court to malee sale and conveyance of the property decreed to be sold, and they have no such right or interest in the property, nor any such standing in court, as to entitle them, in their character of trustees under the decree, to appeal from an order of the court from which they derive their naked power of sale. They are the mere officers or hand of the court appointed to make the sale; and no sale is or can be made under the decree, except upon the approval and ratification of the court. The court becomes the vendor and not the trustees. They have no right to complain, by way of appeal, of an order of the court refusing to ratify the sale. The parties to the cause have not appealed, and the trustees have no right to appeal; and therefore it is ordered that the appeal be dismissed, with costs in this court to the appellees.
+Appeal dismissed.
+On June 4, 1894, a motion was made to strike out the order of the court of May 18, 1894, dismissing the appeal, and to reinstate the same and allow the parties to the original bill to become parties appellant.
+The Court on September 20, 1894, by Mr. Chief Justice Alvey, in denying the motion, said:
+Upon the motion to dismiss the appeal brought into this court by the trustees, who were appointed to make the sale of the property decreed to be sold, we have held that such trustees, not being parties to the record, nor having any estate in the property to be sold, but being mere officers of the court appointed to exercise ministerial functions, had no right to appeal, and consequently the record was improperly brought into this court, and the appeal was therefore dismissed.
+Now, a motion is made that the order dismissing the appeal be stricken out, the appeal reinstated, and that the parties to the original bill, complainants and defendants, be allowed to become parties appellants in this court, though they have never entered an appeal, nor taken any steps whatever in the court below to entitle them to prosecute an appeal, as required by the law and the rules of court.
+There is clearly no law or practice to sanction such a proceeding. The case was improperly brought into this court by the trustees, on appeal from an order of the court relieving purchasers from their bids on property that had been offered for sale by the trustees and reported sold, subject to the approval and ratification of the court. This order simply left the trustees free to proceed to offer the property again for sale, under the original decree; and whether such order as that passed by the court, relieving the purchasers, be the subject of an appeal by the parties to the record, is a question that we need not decide, as the case is now presented.
+The application of the parties to be made appellants in this court assumes that the record was properly brought here by the appeal of the trustees. But, as we have decided, that is not so. The trustees, acting as the mere ministerial officers of the court, had no right or power to bring the case here on appeal, any more than a sheriff or marshal would have to prosecute an appeal from an order setting aside a sale made by such officer. The appeal being improperly here, this court had no other power or jurisdiction over it than to dismiss it.
+The cases referred to in support of the motion have no application whatever to a case like the present.
+In the first of these cases, that of Gates v. Goodloe, 101 U. S., 612, the writ of error was sued out by and in the name of three partners, the defendants in the case, two of whom had been discharged in bankruptcy, and the defendant in error moved to dismiss the writ of error, upon the ground that the assignee in bankruptcy could alone prosecute it. But the court denied the motion, and said: “Undoubtedly, the assignee had the right to prosecute the writ, so far, at least, as it concerned those whom he represented. If the bankrupts could not themselves, under any circumstances, properly sue it out after their discharge (and upon that question the court expresses no opinion), all difficulty, in that respect, had been removed by the application of the assignee for an order here substituting him as a plaintiff in error. His application is now granted, and he is allowed to prosecute the writ in behalf of the bankrupts. Independently, however, of that application, we are not prepared to say that McKnight, the partner against whom no bankruptcy proceedings were instituted, might not have sued out the writ, using for that purpose, if necessary, the names of all the partners against whom the original decree was rendered.”
+In that case, the bankrupts were parties of record, and the bankrupt law gave the assignee the right to be substituted in the place of the bankrupt, in all legal proceedings involving or affecting the assets of the bankrupt estate. There was, therefore, a regular succession of right.
+In the second case referred to, that of Bowden v. Johnson, 107 U. S., 251, a national bank receiver filed a bill to vacate the transfer of stock, and before the decree of the circuit court was passed, a new receiver was appointed in the place of the complainant in the bill. From the decree dismissing the bill, an appeal was taken in the name of the original complainant, to the Supreme Court, the change of receivers never having been suggested in the court below. The new receiver became surety on the appeal bond of the old receiver, and'thus recognized the decree and the appeal, in the name of the original or first receiver; and the new receiver, in the Supreme Court, for the first time moved to be substituted as plaintiff and appellant in the place of the former receiver, without prejudice to the proceedings that had taken place. The appellees then moved to dismiss the appeal, on the ground that none was ever lawfully taken. The court granted the motion of the new receiver, and denied the motion to dismiss made by the appellees. In so ruling the court said: “We think that the motion of Adams (the receiver) should be granted, and that of the appellees denied. Adams prosecuted the appeal in the name of Bowden (the original receiver and plaintiff of record), who was and is in life, and had a representative' capacity. The power of amendment to this extent is authorized by Sec. 954 of the Revised Statutes.”
+In that case the appeal was taken in the name of the only plaintiff of record, and who, until he was formally succeeded on the record, had a representative capacity to prosecute the appeal.
+There is no ground upon which the present motion can be sustained, and it is therefore denied.
+Motion denied.
