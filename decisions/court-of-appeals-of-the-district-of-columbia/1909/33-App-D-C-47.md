@@ -1,0 +1,26 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "1974"
+decided: "1909-03-02"
+citations: ["33 App. D.C. 47"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VAN FLEET v. KING."]
+source_url: "https://static.case.law/app-dc/33/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1359489
+cites_cases: ["16 App. D. C. 293"]
+---
+
+# Van Fleet v. King
+
+## Majority (Mr. Chief Justice Shepard)
+
+Mr. Chief Justice Shepard
+delivered the opinion of the Court:
+The complainant failing to reply to the answer, and subrouting the cause upon the pleading, the answer must be accepted as true in every particular. Alfred Richards Brick Co. v. Trott, 16 App. D. C. 293, 299.
+The contention of the appellant is that the substitution of Dade’s notes for the first trust notes executed by Van Fleet, and the surrender of the same to the latter, had the effect to discharge the same absolutely by novation, not only as to the holders of said notes, but as to King, the indorser and copartner. We are not concerned with the holders of said notes, who hold the substituted notes of Dade with King’s indorsement, secured by a first trust. The question for determination is whether the effect of the transaction was to discharge Van Fleet from all liability to King on account of the indebtedness represented by said first trust notes, and to entitle him to claim an equal part of the remaining notes, and have these delivered to him at once and unconditionally. While the transaction between King, who, it must be remembered, represented the partnership also, and the holders of the first trust notes, by which they accepted the Dade notes with King’s indorsement, may have amounted to a complete novation in so far as they were concerned, it does not follow that King intended them to be treated as if an absolute payment of said notes and a release of Van Fleet from all obligation of the partnership agreement in accordance with which they had been executed and delivered to King. Those notes, or rather the advances which they secured, were obligations of the partnership, and payable out of its assets before any distribution could be properly made among the partners; and this is expressly alleged in the answer. The partnership business had become unsatisfactory to both partners. The sale to Dade was to the advantage of the partnership, and was concluded with the approval and consent of Van Fleet. To complete this sale by obtaining consent of the owners of the premises to the assignment of the lease to Dade, King was compelled to guarantee the payment of the rent by Dade. To have the Dade notes secured by a first mortgage, it was important to all concerned to have the first trust notes canceled and their lien released. King accomplished this by getting the holders of first trust notes to accept a similar amount of the Dade notes in lieu of them, secured, however, by King’s individual indorsement as well as the mortgage. It is to be remembered that these first trust notes had been executed and delivered to King, under the terms of the partnership agreement, to secure him for money advanced and debts assumed for partnership account, and had then been indorsed by him individually to the holders.
+Now, while it may be clear enough that King was willing and intended to have Van Fleet released from any individual liability to the former holders of said first trust notes, it does not appear that he intended to release him from all liability for partnership debts, and his obligation under the partnership agreement to secure King for his advances on account of the partnership. There is not the slightest indication of a consideration to King, by way of benefit or otherwise, for any such result. It would be plainly inequitable to treat the transaction as if there had been a cash payment by Dade to the extent of said first trust notes, so as to compel King at once to divide the remaining Dade notes with Van Fleet, and turn over to the latter his share of them. As there was no such payment, King’s liability on account of the substituted notes indorsed by him, in case of default by Dade, would remain while the security provided in the partnership o agreement would be impaired. Nothing less than an express agreement to that effect, or the existence of circumstances from which it would necesarily be implied, could justify such a conclusion. We find none such. Such inferences as we may be permitted to deduce from the allegations of the answer are against that conclusion.
+Complete justice would have been attained by a decree ordering the notes to be turned over to a receiver, and, after the satisfaction of those indorsed to creditors by King, and of such sums as he may have advanced to pay partnership obligations, to divide the sums collected on the other notes equally between the parties. But the cost of a receivership would occasion the diminution of an already small sum, and the complainant did not insist upon it. In fact, the only error assigned relates to the proposition that has been considered.
+Finding that there was no error in the decree on that point, it will be affirmed with costs. Affirmed.
