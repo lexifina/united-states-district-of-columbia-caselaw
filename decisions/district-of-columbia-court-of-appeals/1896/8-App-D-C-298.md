@@ -1,0 +1,29 @@
+---
+court: "District of Columbia Court of Appeals"
+docket: "528"
+decided: "1896-04-07"
+citations: ["8 App. D.C. 298"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOLCOMB v. DEARING."]
+source_url: "https://static.case.law/app-dc/8/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6098555
+cites_cases: ["106 U. S. 464", "149 U. S. 237", "160 U. S. 247", "94 U. S. 498"]
+---
+
+# Holcomb v. Dearing
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the Court:
+This suit was instituted July 22, 1884, in the Supreme Court of the District of Columbia, upon a bond in the sum of $ 1,000.
+It appears that George H. Plant, as chairman of the committee of improvements of the old Levy Court of the District, on September 1, 1870, drew a draft upon the treasurer to his own order, for the sum of $400, on account of work on one of the streets, and endorsed the same in blank and delivered it to the party to whom the money was due. The order became the property of the appellant’s intestate, Philo B. Wright, who placed it in the hands of one T. D. Winter for collection by suit in the Court of Claims. After the delivery to Winter other endorsements were written on the order. Above the name of George H. Plant was written, “ Pay to the order of T. D. Winter,” and then followed underneath, “ Pay to the order of George T. Dear-ing," signed “T. D. Winter.”
+Dearing claimed to have purchased the order from Winter, believing him to be the owner, and the suit in the Court of Claims was in his name. This came to the knowledge of Wright in April, 1883, who retained an attorney to recover the order or the money thereon. In June of that year, an agreement in writing was entered into between Wright and Dearing, in which it was stipulated that Wright should not interfere in the pending suit, and that Dearing should deliver the proceeds of the suit to Return J. Meigs to hold in trust to abide a suit therefor which Wright was to bring against Dearing, etc. Dearing, at the same time, executed the bond sued on, binding himself in the sum o $ i ,000. The bond refers to the agreement to deliver the proceeds of the suit by Dearing to Meigs, and recites the condition, that if the said Dearing shall pay and deliver to said, Meigs, as trustee, all the warrants, moneys, etc., that may be awarded him in the suit on the bond, “within two • days after the same become due and collectible, then this obligation to be void; otherwise to remain in full force and virtue in law.” The bond was executed by Dearing without surety.
+On March 17, 1884, the Court of Claims rendered a judgment which, when collected with interest, amounted to #671.98. Dearing collected the money, but did not deliver it to Meigs as stipulated in the agreement.
+On the first trial of the case, Wright obtained a judgment, which was reversed on appeal to the General Term, June 27, 1892. That court held that the damages for the breach of the bond could only be nominal, saying: “The bond did not contemplate the payment of the money at once to either party. It contemplated that the ultimate payment, should be made certain by its deposit in the hands of Mr. Meigs. That was the whole office of that bond. When-judgment was given on the bond it was assumed that damage to Wright had been caused to just that extent by breach of the bond. How would that damage arise ? Simply by the loss of the money. It was contemplated that Wright was to bring a suit upon it. It was contemplated by the bond and agreement that the deposit should be paid into Mr. Meigs’ hands, and that when the bond was thus complied with, the ownership of that deposit should be determined by the action to be brought by Wright. What could be the damage caused by the failure to deposit the money ? It would be that Mr. Wright’s suit was thereby rendered fruitless. It seemed to have been supposed that the penalty of the bond could be recovered — a penalty of $ 1,000. It was; however, only a question of damages to be determined by ascertaining whether Wright lost his money and could not recover it by reason of the failure to. deposit the money with Mr. Meigs. * * * We cannot assume that Wright had lost the money entirely, and never could get it because it was never made particularly safe in Mr. Meigs’ hands. * * * We think it was error to •allow the recoven' upon the assumption that Wright had lost this money because it was not so deposited.”
+The case was not restored to the trial calendar until after the creation and organization of this court. There was no amendment of the pleadings, and the case Was tried as before. The trial justice, in obedience to the judgment of the General Term, instructed the jury to return a verdict for nominal damages. Nothing else remained, for him todo. He had no discretion in the matter, and was bound by the judgment of the appellate court, no matter what his own opinion may have been. The General Term itself, had its jurisdiction not been taken away, would have been concluded by its own judgment on a second appeal. It must have regarded the question as finally settled. Supervisors v. Kennicott, 94 U. S. 498; Clark v. Keith, 106 U. S. 464; Texas and Pacific Railway Company v. Anderson, 149 U. S. 237; In re Sanford Fork and Tool Co., 160 U. S. 247, 255, 259.
+The court having succeeded to the appellate jurisdiction of the Supreme Court of the District, is bound by the same rule. We do not inquire into the grounds of its judgment at all. We simply look into the record to see if the question raised on the second appeal was considered and decided by that court. If it was we cannot undertake its re-examination.
+It follows that the judgment must be affirmed; and it is so ordered, with costs to the appellee.
