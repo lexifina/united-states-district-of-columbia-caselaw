@@ -2,7 +2,7 @@
 court: "District of Columbia Court of Appeals"
 docket: "1677"
 decided: "1906-06-07"
-citations: ["28 App. D.C. 84", "28 App. D.C. 86"]
+citations: ["28 App. D.C. 84"]
 reporter: "app-dc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["McGOWAN v. ELROY."]
 source_url: "https://static.case.law/app-dc/28/cases/0084-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8744596
-cites_cases: ["13 Pet. 6", "25 App. D. C. 291", "25 App. D. C. 296", "27 App. D. C. 167"]
+cites_cases: ["13 Pet. 6", "27 App. D. C. 167"]
 ---
 
 # McGowan v. Elroy
