@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "2575"
+decided: "1913-11-03"
+citations: ["41 App. D.C. 34"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SACKS v. UNITED STATES"]
+source_url: "https://static.case.law/app-dc/41/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1786992
+cites_cases: ["14 L.R.A.(N.S.) 697", "14 L.R.A.(N.S.) 723", "142 Mo. 467", "44 S. W. 332"]
+---
+
+# Sacks v. United States
+
+## Majority (Mr. Justice Van Orsdel)
+
+Mr. Justice Van Orsdel
+delivered the opinion of the Court:
+Appellant, William Sacks, was convicted in the supreme court of the District of Columbia of the crime of rape committed upon one Marie Merritt, of the age of twelve years.
+It is assigned as error that the court refused to allow counsel for defendant to introduce evidence to establish the immoral and unchaste conduct and character of the prosecuting witness. This evidence was offered for the purpose of affecting her credibility. It was inadmissible. While it is a general rule that in cases of rape where the person assaulted is over the age of consent, both her general reputation for unchastity and particular acts of unchastity may be proven, not especially as affecting her credibility as a witness, but as tending to show her consent to the commission of the offense charged, the rule is different where the person against whom the offense is committed is legally incapable of consenting to her defilement. “As evidence of unchastity on the part of the prosecutrix goes to the question of consent, it is immaterial in a prosecution for having carnal knowledge of a girl under the age of consent.” 1 McClain, Grim. Law, sec. 460. Under our statute, it is rape to carnally know a female child under the age of sixteen years, either with or without her consent. The statute having fixed the age of consent at sixteen years, it is no answer to the charge that she has a bad reputation for chastity. The mere act constitutes the crime, whether there was in fact consent or not. Her general reputation for truth and veracity may be tested only as in the case of other witnesses. As was said in State v. Whitesell, 142 Mo. 467, 44 S. W. 332: “But here the law conclusively presumes that the girl could not give her consent, and every act of intercourse with her would be a crime committed against her, and such acts could not therefore affect her credibility. Her reputation for truth and veracity could be inquired into in the same way as could that of an adult, but sbe could not be impeached by her acts of intercourse.”
+The government used as a corroborating witness one Lydia Eitter, who testified that she was present when the offense was committed. On cross-examination, she was asked: “Have you been going around improperly and having intercourse for money?” The court properly sustained an objection to the question. The witness was fourteen years old, but appeared before the court as any other witness. Neither general reputation for unchastity nor particular acts could be used to impeach her evidence. She was subject only to the general rules of evidence relating to the method of impeachment, and the question was not directed to any rule with which we are familiar.! .
+Defendant produced witnesses to establish his good reputation for morality and chastity. In the cross-examination of one of these witnesses, the district attorney asked the witness' the following question: “Did you hear in 1910, April 8, 1910, that he was convicted of furnishing liquor to minors ?” To which he answered, “No, I never heard of such a thing.” Objection was made that the remark and suggestion of the district attorney were improper and prejudicial. The court promptly instructed the jury “that questions are not evidence.” With this admonition of the court, there was no evidence that reached the jury of the commission of another crime. In fact, the answer of the witness would tend to convey to the jury that the object sought by the question had failed. While the question was improper, we are not convinced that the rights of defendant were prejudiced by it.
+In the closing argument to the jury, the district attorney used the following language: “Again the defense fell down. They brought here witnesses to show the bad character of these girls for immorality.” Counsel for defendant objected to the language on the ground “that the court excluded evidence as to the reputation of the girls for immorality.” Whereupon the district attorney remarked: “I should have said for truth and veracity.” ' The court then instructed, the jury as follows: “The jury will understand that they are not to regard any statements made by the district attorney unless there is evidence in the case, and I will say that there is no evidence in the case regarding the reputation of the girls for morality. I do- not think any harm has been done. The motion is overruled and exception noted.” While we think the remark was not made by the district attorney with the intention of prejudicing the rights of defendant, yet, whether intentional or unintentional, if permitted to stand, it would have tended to improperly influence the jury. We are of opinion, however, that the prompt action of the court in admonishing the jury to disregard it cured an otherwise prejudicial error. We must attribute to the jury at least an average degree of intelligence, and it would seem that whatever impression was conveyed to the jurymen by the remark was completely removed by the prompt statement of the court.
+There are a number of other assignments in the record which fail to disclose reversible error. The judgment is affirmed.
+Affirmed.
+Petition for rehearing denied December 1, 1913.
