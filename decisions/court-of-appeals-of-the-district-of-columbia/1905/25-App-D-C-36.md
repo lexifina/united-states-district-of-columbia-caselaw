@@ -1,0 +1,33 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "1442"
+decided: "1905-02-07"
+citations: ["25 App. D.C. 36"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KELLOGG v. THE MUTUAL LIFE INSURANCE COMPANY OF NEW YORK."]
+source_url: "https://static.case.law/app-dc/25/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1329266
+cites_cases: ["118 N. Y. 648", "23 N. E. 991", "49 Md. 352"]
+---
+
+# Kellogg v. Mutual Life Insurance
+
+## Majority (Mr. Justice Duell)
+
+Mr. Justice Duell
+delivered the opinion of the Court:
+1. Appellant’s first contention is that the court below erred in taking jurisdiction after the commencement of her suit against the appellee in another court claimed to be competent to determine and settle all the rights between them. Conceding that the Wisconsin court is competent to the extent stated, it is without jurisdiction to determine the controversy between the appellee, the appellant, and Anna M. Gregory, unless the latter voluntarily submits to the jurisdiction of the court, as she is a resident of the District of Columbia. On the other hand, the court below has obtained jurisdiction of all parties, either by their having voluntarily come within its jurisdiction or been duly served with process.
+There is no hardship to any of the parties in having the controversy determined in this forum. The appellee has already been sued by Ethel Kellogg, and may, at any time, be sued by Anna 1VL Gregory. Ethel Kellogg is an inhabitant of*, the District of Columbia, although she may show that this is, not her legal residence. It is in the interest of all parties concerned to have the matter of the ownership of the fund determined in the most speedy and economical manner, and that a multiplicity of .suits, if possible, be avoided and the expense attend ant thereto. We do not believe that the commencement of the suit in Wisconsin is an absolute bar to this proceeding, and, were there any doubt about it, we would not be inclined to resolve that doubt in favor of the appellant. It would rob the right to file a bill of interpleader of much of its value if it should be held that the proceeding must be commenced before any of the claimants had commenced suit. We are cleaT that it was not error in the court below to take jurisdiction after the commencement of the Wisconsin suit.
+2. We do not understand that the fact that the court below in its opinion refers to Mrs. Gregory’s answer is seriously insisted to be such an error as would necessitate the reversal of the decree. However this may be, there is sufficient in the complaint and in the answer of the appellant Kellogg to warrant the decree, and all reference to the answer of the defendant Gregory may be ignored, as the appellant was not injured by such reference.
+The material allegations in the complaint, are sufficient in themselves to sustain the action, as they show that two persons have preferred a claim against the appellee; that the claim is the same thing; that the plaintiff has no beneficial interest in the thing claimed; and that it cannot determine without hazard to itself to which of the defendants the thing belongs. Crane v. McDonald, 118 N. Y. 648; 23 N. E. 991.
+We deem it unnecessary to go beyond this in overruling the second ground of alleged error.
+3. It is argued, in the third place, that it was error to enter the decree appealed from before the expiration of the ten days in which appellant insists she was entitled, under the rules of the court, to file an answer to the amended bill. This contention, under the circumstances of the case, is technical in the extreme, and one that this court is clearly warranted in overruling. The amendment to the complaint went only to the extent of increasing the amount which the appellee offered to pay into the registry of the court. The allowance of the amendment was clearly within the power of the trial court, the appellant was not injured by it, and the ends of justice were subserved. There was nothing in the amendment to the complaint calling for an amendment to the answer. It is intimated that the amount deposited is still insufficient The answer of the appellant distinctly states that she does not know the exact amount due on the policy. If there be any error in the amount, it can be adjusted when the case goes back to the trial court. It is stated that this amount is some three or four dollars, and it is made a fourth ground of alleged error.
+'It is unnecessary to add anything further upon this point, and therefore the third and fourth grounds of alleged error are overruled.
+4. It is further insisted that it was an error to entertain the bill of interpleader against the two claimants because there is no privity between them. From the view we take of the case it is unnecessary for us to decide whether, in order to sustain a bill of interpleader, it is requisite that the thing or debt to determine the title to which the bill is filed is based upon claims thereto derived or proceeding from a common source. This determination of privity is one in reference to which the authorities differ. When, as in the case at bar, “the adverse titles of the claimants are both derived from a common source, it is sufficient to authorize interpleader.” Crane v. McDonald, 118 N. Y. 648, 23 N. E. 991.
+The claims of both Kellogg and Gregory are founded upon the policy issued by the appellee to Daniel M. Kellogg. There was but one contract between the appellee and Daniel M. Kellogg, and it is the fruits of that contract that both claimants seek to possess.
+The allegations of the complaint bring this case within the rule enunciated in Emerick v. New York L. Ins. Co. 49 Md. 352.
+It would subserve no good purpose to more fully elaborate our views. The case is a proper one for interpleader, one suit having already been brought against the appellee, and another being certain to follow should it be held that the appellee could not file this bill of interpleader. It is unfair to appellee to vex it with conflicting suits and the expense attendant upon the litigation. Botb tbe claimants are witbin tbe jurisdiction of tbe supreme court of tbe District of Columbia, and all questions of difference between them can be best settled here, and in tbe end some part of tbe fund will remain for tbe successful party. We find that there was no error in tbe court below.
+It follows that tbe decree appealed from must be affirmed, with costs to be paid out of tbe fund in controversy, and it is so ordered. Affirmed.
