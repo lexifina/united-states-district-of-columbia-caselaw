@@ -1,0 +1,31 @@
+---
+court: "Court of Appeals of the District of Columbia"
+docket: "112"
+decided: "1893-11-08"
+citations: ["1 App. D.C. 411"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLOUGHBY v. MACKALL."]
+source_url: "https://static.case.law/app-dc/1/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463367
+---
+
+# Willoughby v. Mackall
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the Court:
+i. It is contended in support of the demurrer that the payment of the $5,000 was contingent upon the recovery of some amount as mesne profits in cause No. 8118, and that as no recovery was had in said cause the complainant is entitled to nothing for his services in any of the cases.
+At the time the contract was made the litigation had been for some time in progress, and the right of the attorney to reasonable compensation for the value of his services had been fixed, and he had received some payments on account thereof, the amounts of which are not stated. The contract made at this late date was apparently for the purpose of a definite understanding and settlement of the fee to be paid the attorney, as well as the exact nature of the services he was to perform.
+We cannot agree to the construction given this instrument by the learned counsel for appellee on the argument of the cause. We do not think that Willoughby’s right to any compensation whatever for services in all three suits was made to depend wholly upon success in No. 8118. He was not to be paid $5,000 out of the proceeds of said cause, but “ a sum equal to fifty per cent, of such money as may be adjudged to the said Mackall as aforesaid, and which may be recovered in said suit of Mackall v. Richards and others, in equity, No. 8118, by way of mesne profits, damages and costs, provided that if such fifty per cent, be less thait $5,000, the said Willoughby shall have such sum of $5,000, and shall have a lien therefor upon said judgment and property as may be recovered against the said Richards.”
+It seems reasonably clear thait Willoughby was to have at least $5,000 for his services in all three cases; if successful, according to his expectation, in No. 8118, he might receive more than this sum; but under no circumstances was he to receive less. Suppose he had recovered, say, $2,500 as mesne profits and damages in that case, would it be contended that he was to have that and no more? Yet if his compensation was limited to the money recovered in that cause, how was he to obtain his fee of $5,000 which was expressly stipulated for in the event that fifty per cent, thereof should be less than that amount? It seems clear enough, then, that if the claim in 8118 should fail altogether, or fall short of a recovery of $5,000, it was to remain a charge against Mackall either in whole or in part according to the result.
+The construction given this contract is not to be strained in the interest of Mackall on account of the relation of client and attorney existing at the time between him and Willoughby. The demurrer must be taken, for the time being, as an admission that there was*no advantage taken of the client to make an unjust contract. If in his answer the defendant should make specific allegations to the effect that the relation of attorney and client was in fact abused to his detriment, then it would devolve upon the complainant to show that the charge was fair and reasonable, and the contract made with a full understanding of the situation at the time on the part of the defendant. This rule of law with respect to contracts between attorney and client applies in their enforcement and not in their interpretation.
+2. The intention of the parties not to limit the complainant’s compensation to the contingency of success in No. 8118 alone, is, we think, made more clear by the clause creating the lien which is sought to be foreclosed. The recital is: “And the said Willoughby shall have a lien therefor upon said judgment and property as may be recovered against said Richards.”
+We think this should be interpreted as if the word such had been inserted before the word property, in the foregoing rather awkwardly worded sentence, thereby making it to read “ upon said judgment and such property as may be recovered,” etc.
+There was reason for using both of these words, judgment and property, in this sentence. Judgment is singular, and evidently refers to cause No. 8118, in which alone a money recovery was prayed for. If that judgment should amount to nothing, or to a sum less than $5,000, then complainant was to be secured by a lien on the property that might be recovered. There is no sound reason for limiting this general term property to such as should be recovered alone in No. 8118. The contract recites the three cases in which are involved the whole of lot 7, in square 223, and No. 81x8 is the last one upon the docket in the order of institution. The larger part of the lot was involved in the two other cases and the value of that which was recovered therein amounted to about $50,000. It is not apparent why Willoughby should have limited his lien for his services to the property to be recovered in one only, and it does not appear that he did so.
+3. It is contended, however, that this lien is incapable of enforcement because it does not identify with sufficient cer tainty the property to which it attaches. The only uncertainty lies in determining how much of the property in litigation is subject to the lien stipulated in the contract. There is no want of certainty in the identification of the property itself, but only in the construction of the contract creating the lien. Having held that the lien was intended to be given upon all of the property that might be recovered of Richards, the identification of this is easy enough by reference to the final decrees in these cases. “ That is certain which may be rendered certain.”
+For the errors above pointed out in the proceedings below, the decree will be reversed, with costs to the appellant against the appellee, Mackall, and the cause remanded for further proceedings not inconsistent with this opinión.
+Reversed.
