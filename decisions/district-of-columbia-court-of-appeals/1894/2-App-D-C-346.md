@@ -1,0 +1,26 @@
+---
+court: "District of Columbia Court of Appeals"
+docket: "203"
+decided: "1894-02-05"
+citations: ["2 App. D.C. 346"]
+reporter: "app-dc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAMS v. BRADLEY."]
+source_url: "https://static.case.law/app-dc/2/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468301
+---
+
+# Williams v. Bradley
+
+## Majority (Mr. Justice Morris)
+
+Mr. Justice Morris
+delivered the opinion of the Court:
+This is an appeal from a judgment rendered by the Supreme Court of the District of Columbia under the 73d rule of that court.
+There was an affidavit filed with the declaration; and the defendant filed an affidavit of defense in support of his pleas. This affidavit of defense was deemed insufficient by the plaintiff, and he accordingly moved for judgment; and the court rendered judgment for him in pursuance of his motion. From this judgment the defendant appealed; and now here assigns as error both that his own affidavit was sufficient and that the affidavit of the plaintiff was insufficient.
+We concur with the court below in holding that the defendant’s affidavit was insufficient; but we are of opinion that the plaintiff’s affidavit also was radically defective. The rule requires the plaintiff to state under oath the amount which he claims to be due to him, “ exclusive of all set-offs and just grounds of defense.” The reason for this requirement it is unnecessary here to investigate. It is sufficient that the requirement is contained in the rule; and that compliance with the rule is a necessary condition precedent to the enjoyment of its advantages. The plaintiff upon trial is not required to disprove the existence of set-offs or just grounds of defense, at least upon his prima fade case. But when he seeks to obtain judgment under a summary rule, like that in question, he must conform to all the requirements of that rule; and he is not at liberty to ignore or disregard any of them. Now, if there is any one thing that is specifically required by that rule, over and above all others, it is that the amount claimed should be stated exclusive qf all set-qffs and just grounds of defense. The court cannot assume that these words have no special significance and may be omitted at will; or that the substance of them may be inferred if the cause of action is otherwise sufficiently stated. We do not hold that these precise words must be used as they occur in the rule; but we do hold, that the statement which they embody must appear distinctly and by positive averment, and not merely by inference, in the plaintiff’s affidavit. The affidavit of the plaintiff in the present case contains neither this statement nor any equivalent of it. It is, therefore, radically defective and insufficient as a basis for the summary judgment provided by the rule.
+The judgment of the court below must be reversed, with costs, and the cause remanded to that court to be proceeded with therein in accordance with law.
+Plaintiff's Affidavit. County of Philadelphia, State of Pennsylvania, ss: I, Walter T. Bradley, on oath depose and say that I am the plaintiff named in the foregoing and annexed declaration; that Alexander R. Williams, trading under the firm name of 11 A. R. Williams & Co.,” named therein as defendant, is indebted to this affiant in the full sum of three hundred and sixty-one and ($361.05) dollars, with interest on two hundred and eleven and ($211.05) dollars thereof from the seventeenth day of September, A. D. 1892, together with one and -¿L ($1.97) dollars, costs of protest, and on the balance thereof from the eighteenth day of October, A. D. 1892, together with one and p¡\ ($i-97) dollars, costs of protest thereon, being due upon the promissory notes of said defendant as described in said declaration; that plaintiff became the holder of said notes bona fide and in the usual course of business ; that the genuine signature of the defendant appears thereon; that at the maturity thereof said notes were duly presented for payment, but said defendant did not then pay the same or any part thereof, nor has he since done so ; that the consideration of said notes was goods and merchandise sold and delivered by the plaintiff to the defendant; that no portion of the principal sum or interest due upon said notes has been paid, satisfied, or secured in any manner whatsoever, but that the whole thereof and as claimed in the declaration herein is now overdue and unpaid ; that the cause of action of the plaintiff in said declaration is grounded upon the said notes, and that for such cause of action plaintiff claims to be due from, and affiant believes and avers that he has a just right to recover against the defendant what he claims in his said declaration, to wit: the sum of three hundred and sixty-one and dollars ($361.05), with interest on two hundred and eleven and ($211.05) dollars thereof from the seventeenth day of September, A. D. 1892, together with one and ($1.97) dollars, costs of protests, and on the balance thereof from eighteenth day of October, A. D. 1892, together with one and ¶9^ ($1.97) dollars ; and that said sum is justly payable by the defendant to the plaintiff as aforesaid.
+Walter T. Bradley.
