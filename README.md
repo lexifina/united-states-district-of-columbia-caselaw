@@ -45,3 +45,6 @@ history (nothing is rewritten). Now 18,113 decisions.
 
 Dates in the commit history: git cannot hold dates before 1970, so a decision before 1970 is committed from 1970-01-01 noon UTC-5, a second apart.
 Read the `In-force:` trailer for the day decided, not the commit date.
+
+## DC Circuit decisions moved to their own repo (2026-11-09)
+326 decisions here were the United States Court of Appeals for the District of Columbia Circuit's (F.3d, 2017-2019), not the local courts': CAP files them under the name "Court of Appeals of the District of Columbia". Each is now in united-states-cadc-caselaw (316 were already there, 10 were added there), and its file here is removed with its decision-index and overlay rows; `decision-relations.tsv` gives each removed path as `moved-to cadc/<path>`. The App. D.C. decisions of 1893-1934 under the same name are kept here. Now 17,787 decisions.
